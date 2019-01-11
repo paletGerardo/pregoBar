@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e60993a2-959f-4525-9cef-bc0c67841216" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="cerveceriadb@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="cerveceriadb@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="cerveceriadb@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="cerveceriadb: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-756086705">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="4" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.php.rename.constructor" />
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="3" />
+          <entry key="php" value="27" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.php.composer.command.options" />
+      <usages-collector id="statistics.php.new.test" />
+      <usages-collector id="statistics.php.composer.actions" />
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JavaScript" value="1" />
+          <entry key="PHP" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.php.new.class" />
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaScript" value="3" />
+          <entry key="PHP" value="27" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="js" value="1" />
+          <entry key="php" value="5" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="menu-inteligente" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="14" selection-start-line="13" selection-start-column="14" selection-end-line="126" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/conexion.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/global.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/scripts/vue.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="675">
+              <caret line="45" column="80" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="80" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>tira</find>
+      <find>fade</find>
+      <find>item</find>
+      <find>cada</find>
+      <find>lista</find>
+      <find>listar_ele</find>
+      <find>precioT</find>
+      <find>estilo</find>
+      <find>imagen</find>
+      <find>gracias</find>
+      <find>Productos</find>
+      <find>productos</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="paletGerardo &lt;paletgerardo@gmail.com&gt;" />
+        <option value="gerr" />
+        <option value="Gerr" />
+      </list>
+    </option>
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="app_vue2" />
+      </map>
+    </option>
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/modelos/ClassCategoria.php" />
+        <option value="$PROJECT_DIR$/ajax/categorias/listarCategorias.php" />
+        <option value="$PROJECT_DIR$/public/scripts/index.js" />
+        <option value="$PROJECT_DIR$/ajax/productos/listarProductosPorId.php" />
+        <option value="$PROJECT_DIR$/ajax/productos/listarProductos.php" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/package-lock.json" />
+        <option value="$PROJECT_DIR$/config/conexion.php" />
+        <option value="$PROJECT_DIR$/../app_consorcio/mvc/application/view/login.html" />
+        <option value="$PROJECT_DIR$/../app_consorcio/mvc/application/view/permiso.php" />
+        <option value="$PROJECT_DIR$/../app_consorcio/mvc/application/view/usuario_view.php" />
+        <option value="$PROJECT_DIR$/../crud/database/seeds/DatabaseSeeder.php" />
+        <option value="$PROJECT_DIR$/../crud/database/seeds/ArticulosSeeder.php" />
+        <option value="$PROJECT_DIR$/../crud/resources/views/articulo/index.blade.php" />
+        <option value="$PROJECT_DIR$/../crud/resources/views/layouts/admin.blade.php" />
+        <option value="$PROJECT_DIR$/../crud/app/Http/Controllers/ArticuloController.php" />
+        <option value="$PROJECT_DIR$/../crud/resources/views/articulo/create.blade.php" />
+        <option value="$PROJECT_DIR$/../crud/routes/web.php" />
+        <option value="$PROJECT_DIR$/../crud/composer.json" />
+        <option value="$PROJECT_DIR$/../crud/config/app.php" />
+        <option value="$PROJECT_DIR$/../my_page/index.html" />
+        <option value="$PROJECT_DIR$/../app_consorcio/mvc/index.php" />
+        <option value="$PROJECT_DIR$/../consorcio/view/usuario_view.php" />
+        <option value="$PROJECT_DIR$/../consorcio/view/template_view.php" />
+        <option value="$PROJECT_DIR$/../consorcio/model/ClassUsuario.php" />
+        <option value="$PROJECT_DIR$/../consorcio/view/usuario.php" />
+        <option value="$PROJECT_DIR$/../consorcio/view/scripts/usuario.js" />
+        <option value="$PROJECT_DIR$/../consorcio/ajax/usuarioAjax.php" />
+        <option value="$PROJECT_DIR$/../consorcio/modelos/ClassUsuario.php" />
+        <option value="$PROJECT_DIR$/../consorcio/config/conexion.php" />
+        <option value="$PROJECT_DIR$/config/global.php" />
+        <option value="$PROJECT_DIR$/public/css/main.css" />
+        <option value="$PROJECT_DIR$/public/index.php" />
+        <option value="$PROJECT_DIR$/modelos/ClassProductos.php" />
+        <option value="$PROJECT_DIR$/public/scripts/vue.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2">
+    <include_path>
+      <path value="/usr/share/php" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="537" />
+    <option name="y" value="72" />
+    <option name="width" value="983" />
+    <option name="height" value="692" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="menu-inteligente" type="b2602c69:ProjectViewProjectNode" />
+              <item name="menu-inteligente" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="menu-inteligente" type="b2602c69:ProjectViewProjectNode" />
+              <item name="menu-inteligente" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="menu-inteligente" type="b2602c69:ProjectViewProjectNode" />
+              <item name="menu-inteligente" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MariaDB" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sistema" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="OPEN_URL_DIALOG">
+      <recent name="http://paletgerardo.esy.es" />
+      <recent name="http://31.170.165.184" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",Show Fields" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e60993a2-959f-4525-9cef-bc0c67841216" name="Default" comment="" />
+      <created>1526497317578</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526497317578</updated>
+      <workItem from="1526497318716" duration="8294000" />
+      <workItem from="1526562020172" duration="3070000" />
+      <workItem from="1526577391317" duration="6826000" />
+      <workItem from="1526595399889" duration="9546000" />
+      <workItem from="1526612116135" duration="4670000" />
+      <workItem from="1526683090352" duration="14722000" />
+      <workItem from="1526739985028" duration="997000" />
+      <workItem from="1526744650726" duration="3435000" />
+      <workItem from="1526754371956" duration="682000" />
+      <workItem from="1526759574471" duration="1384000" />
+      <workItem from="1526775569059" duration="5573000" />
+      <workItem from="1526925057753" duration="2062000" />
+      <workItem from="1526941003066" duration="669000" />
+      <workItem from="1527208894087" duration="599000" />
+      <workItem from="1527438778291" duration="41000" />
+      <workItem from="1527438982793" duration="2622000" />
+      <workItem from="1527537396072" duration="3265000" />
+      <workItem from="1527545095947" duration="10150000" />
+      <workItem from="1527559593798" duration="2516000" />
+      <workItem from="1527608842700" duration="2745000" />
+      <workItem from="1527629007982" duration="823000" />
+      <workItem from="1527630277649" duration="120000" />
+      <workItem from="1527634338713" duration="2370000" />
+      <workItem from="1527645499629" duration="1696000" />
+      <workItem from="1527694926548" duration="3764000" />
+      <workItem from="1527699289932" duration="175000" />
+      <workItem from="1527776124381" duration="616000" />
+      <workItem from="1527779715191" duration="324000" />
+      <workItem from="1527807338875" duration="1118000" />
+      <workItem from="1528153275345" duration="683000" />
+      <workItem from="1528144947378" duration="186000" />
+      <workItem from="1528410478239" duration="1415000" />
+      <workItem from="1528412072964" duration="8362000" />
+      <workItem from="1528478503770" duration="1378000" />
+      <workItem from="1528591971268" duration="684000" />
+      <workItem from="1529018009820" duration="162000" />
+      <workItem from="1529452360678" duration="15000" />
+      <workItem from="1534511618179" duration="534000" />
+      <workItem from="1534512951829" duration="599000" />
+      <workItem from="1534560895404" duration="483000" />
+      <workItem from="1544113438085" duration="855000" />
+      <workItem from="1544454410164" duration="1704000" />
+      <workItem from="1546002239952" duration="855000" />
+      <workItem from="1546021240237" duration="602000" />
+      <workItem from="1546632227995" duration="618000" />
+      <workItem from="1547171716266" duration="112000" />
+    </task>
+    <task id="LOCAL-00001" summary="cambie contraseña global para la conexion a bdd">
+      <created>1526498001040</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1526498001040</updated>
+    </task>
+    <task id="LOCAL-00002" summary="cambie contraseña global para la conexion a bdd">
+      <created>1526498032859</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1526498032859</updated>
+    </task>
+    <task id="LOCAL-00003" summary="cambie contraseña global para la conexion a bdd">
+      <created>1526503464881</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1526503464881</updated>
+    </task>
+    <task id="LOCAL-00004" summary="cambie contraseña global para la conexion a bdd">
+      <created>1526503603130</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1526503603130</updated>
+    </task>
+    <task id="LOCAL-00005" summary="cambie contraseña global para la conexion a bdd">
+      <created>1526589551505</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1526589551505</updated>
+    </task>
+    <task id="LOCAL-00006" summary="cambie contraseña global para la conexion a bdd">
+      <created>1526605756682</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1526605756682</updated>
+    </task>
+    <task id="LOCAL-00007" summary="cambie contraseña global para la conexion a bdd">
+      <created>1526605968911</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1526605968911</updated>
+    </task>
+    <task id="LOCAL-00008" summary="agregue funcionalidad a los botones mas menos">
+      <created>1526616788098</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1526616788098</updated>
+    </task>
+    <task id="LOCAL-00009" summary="agregue disabled, acomode estilos, y demas">
+      <created>1526698193996</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1526698193996</updated>
+    </task>
+    <task id="LOCAL-00010" summary="agregue disabled, acomode estilos, y demas">
+      <created>1526751258486</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1526751258486</updated>
+    </task>
+    <task id="LOCAL-00011" summary="agregue disabled, acomode estilos, y demas">
+      <created>1527630317926</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1527630317926</updated>
+    </task>
+    <task id="LOCAL-00012" summary="agregue disabled, acomode estilos, y demas">
+      <created>1528411600883</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1528411600883</updated>
+    </task>
+    <task id="LOCAL-00013" summary="agregue disabled, acomode estilos, y demas">
+      <created>1528412152434</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1528412152434</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="114723000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="55" y="30" width="1311" height="738" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5575658" visible="true" weight="0.16812053" />
+      <window_info id="Structure" order="1" sideWeight="0.44243422" side_tool="true" weight="0.1659091" />
+      <window_info id="Favorites" order="2" sideWeight="0.43464053" side_tool="true" weight="0.2219697" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32885906" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32843137" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.5922819" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32894737" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.3294702" />
+      <window_info anchor="bottom" id="Database Console" order="13" weight="0.32894737" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.21570182" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="agregue estilos a la lista y completo los elementos de esta en el index" />
+    <MESSAGE value="cambie contraseña global para la conexion a bdd" />
+    <MESSAGE value="agregue funcionalidad a los botones mas menos" />
+    <MESSAGE value="agregue disabled, acomode estilos, y demas" />
+    <option name="LAST_COMMIT_MESSAGE" value="agregue disabled, acomode estilos, y demas" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/node_modules/vue-tiny-slider/src/index.js" />
+    <entry file="file://$PROJECT_DIR$/package-lock.json" />
+    <entry file="file://$PROJECT_DIR$/../app_consorcio/mvc/application/view/noacceso.php" />
+    <entry file="file://$PROJECT_DIR$/../app_consorcio/mvc/.htaccess" />
+    <entry file="file://$PROJECT_DIR$/../app_consorcio/mvc/application/model/model_usuario.php" />
+    <entry file="file://$PROJECT_DIR$/../app_consorcio/mvc/application/view/usuario_view.php" />
+    <entry file="file://$PROJECT_DIR$/../app_consorcio/mvc/application/view/scripts/usuario.js" />
+    <entry file="file://$PROJECT_DIR$/../app_consorcio/mvc/application/view/login.html" />
+    <entry file="file://$PROJECT_DIR$/../app_consorcio/mvc/application/view/permiso.php" />
+    <entry file="file://$PROJECT_DIR$/modelos/ClassCategoria.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modelos/IndexClass.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../crud/routes/web.php" />
+    <entry file="file://$PROJECT_DIR$/../crud/composer.json" />
+    <entry file="file://$PROJECT_DIR$/../crud/config/app.php" />
+    <entry file="file://$PROJECT_DIR$/../crud/app/Http/Controllers/ArticuloController.php" />
+    <entry file="file://$PROJECT_DIR$/../crud/resources/views/articulo/create.blade.php" />
+    <entry file="file://$PROJECT_DIR$/../crud/resources/views/articulo/index.blade.php" />
+    <entry file="file://$PROJECT_DIR$/../crud/resources/views/layouts/admin.blade.php" />
+    <entry file="file://$PROJECT_DIR$/../crud/database/seeds/ArticulosSeeder.php" />
+    <entry file="file://$PROJECT_DIR$/../crud/database/seeds/DatabaseSeeder.php" />
+    <entry file="file://$PROJECT_DIR$/../my_page/index.html" />
+    <entry file="file://$PROJECT_DIR$/../app_consorcio/mvc/application/controller/controller_usuario.php" />
+    <entry file="file://$PROJECT_DIR$/../app_consorcio/mvc/application/controller/controller_product.php" />
+    <entry file="file://$PROJECT_DIR$/../app_consorcio/mvc/index.php" />
+    <entry file="file://$PROJECT_DIR$/../app_consorcio/mvc/application/controller/controller_main.php" />
+    <entry file="file://$PROJECT_DIR$/../consorcio/view/template_view.php" />
+    <entry file="file://$PROJECT_DIR$/../crud/resources/views/index.html" />
+    <entry file="file://$PROJECT_DIR$/../consorcio/view/usuario.php" />
+    <entry file="file://$PROJECT_DIR$/../consorcio/view/scripts/usuario.js" />
+    <entry file="file://$PROJECT_DIR$/../consorcio/ajax/usuarioAjax.php" />
+    <entry file="file://$PROJECT_DIR$/../consorcio/modelos/ClassUsuario.php" />
+    <entry file="file://$PROJECT_DIR$/../consorcio/config/conexion.php" />
+    <entry file="file://$PROJECT_DIR$/../consorcio/view/scripts/login.js" />
+    <entry file="das://18be871a-5103-40aa-82e5-4734328f3661/schema/cerveceriadb/table/productos" />
+    <entry file="file://$PROJECT_DIR$/public/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="384" column="1" selection-start-line="384" selection-start-column="1" selection-end-line="384" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/categorias/listarCategorias.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modelos/ClassProductos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/productos/listarProductosPorId.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/productos/listarProductos.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/scripts/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="40" column="74" selection-start-line="40" selection-start-column="74" selection-end-line="40" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="14" selection-start-line="13" selection-start-column="14" selection-end-line="126" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/conexion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/global.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/scripts/vue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" column="80" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
